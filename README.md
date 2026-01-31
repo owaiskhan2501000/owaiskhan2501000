@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi, I'm Mohammad Owais.
 
-<!--
-**owaiskhan2501000/owaiskhan2501000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science senior from Pakistan with a deep interest in making machines "see" and understand the world.
 
-Here are some ideas to get you started:
+Currently, I am focused on **Computer Vision** and **Deep Learning**. My goal is to move beyond just using libraries and actually understand the math behind Neural Networks. I plan to pursue my Master's in AI specifically in China to work on advanced research.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I'm up to right now:**
+- 🧠 Training custom object detection models using YOLO.
+- 🎨 Experimenting with GANs to generate art (and sometimes anime characters).
+- 📚 Preparing for my Master's journey.
+
+**Tech Stack:**
+Python, OpenCV, TensorFlow, C++, and Android (Kotlin).
+
+---
+📫 **Contact:** niazih872@gmail.com
