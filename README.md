@@ -13,4 +13,4 @@ Currently, I am focused on **Computer Vision** and **Deep Learning**. My goal is
 Python, OpenCV, TensorFlow, C++, and Android (Kotlin).
 
 ---
-📫 **Contact:** niazih872@gmail.com
+**Contact:** niazih872@gmail.com
